@@ -6,9 +6,9 @@ I'm coming from an enterprise .NET background—backend systems, legacy refactor
 
 ## Sections
 
-- [`/plugin-dev`](./plugin-dev): Custom WordPress plugins built from scratch
+- [`/plugin_dev`](./plugin_dev): Custom WordPress plugins built from scratch
 - [`/writing`](./writing): Dev logs, reflections, and async-style blog posts
-- ~~[`/system-design`](./system-design): Future backend breakdowns and design exercises~~
+- ~~[`/system_design`](./system_design): Future backend breakdowns and design exercises~~
 
 ## Why this repo exists
 
