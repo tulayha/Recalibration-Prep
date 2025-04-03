@@ -8,7 +8,7 @@ I'm coming from an enterprise .NET background—backend systems, legacy refactor
 
 - [`/plugin-dev`](./plugin-dev): Custom WordPress plugins built from scratch
 - [`/writing`](./writing): Dev logs, reflections, and async-style blog posts
-~~- [`/system-design`](./system-design): Future backend breakdowns and design exercises~~
+- ~~[`/system-design`](./system-design): Future backend breakdowns and design exercises~~
 
 ## Why this repo exists
 
